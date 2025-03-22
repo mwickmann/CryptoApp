@@ -5,10 +5,10 @@ Krypto App kodet i SwiftUI
 NB: Bruker *16.2* versjonen av Xcode.
 
 
-<a id="side01hjem"></a>
-[✅] - Viser all informasjon fra API-endepunktet https://api.coinlore.net/api/global/
-[✅] - Pull to refresh
-[✅] - Feilmelding hvis ikke man har internett
+Side 01 Hjem:
+✅ Viser all informasjon fra API-endepunktet https://api.coinlore.net/api/global/
+✅ Pull to refresh
+✅ Feilmelding hvis ikke man har internett
 [✅] - Mørk rød farge hvis ikke man har oppdatert info fra API-endepunktet 
 [✅] - Onboarding vises første gang bruker kommer inn på appen
 [✅] - Konkret tidspunkt når den er oppdatert. Når bruker puller for å refreshe, oppdateres tiden i sanntid.
